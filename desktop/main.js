@@ -286,7 +286,7 @@ ipcMain.on('stop-ai-agent', () => {
   cleanupBGAgent();
 });
 
-const GOOGLE_CLIENT_ID = '388076796151-1asnnvdmkvkbd4ihl6ol4uanm7vl631p.apps.googleusercontent.com';
+const GOOGLE_CLIENT_ID = '296264060339-jamhdgfckblr0qgq360t5ok4e1kede35.apps.googleusercontent.com';
 const REDIRECT_URI = 'http://127.0.0.1:36478';
 
 function openUrlInBrowser(targetUrl) {
